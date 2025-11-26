@@ -3,7 +3,7 @@
 * avocado
 * lemon
 * salt
-* another salt
+* another salt and pepper
 ## Instructions
 * Do it
 * Eat it
